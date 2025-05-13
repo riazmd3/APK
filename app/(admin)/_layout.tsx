@@ -88,6 +88,13 @@ export default function AdminLayout() {
           tabBarIcon: ({ color }) => <Truck size={24} color={color} />,
         }}
       />
+            <Tabs.Screen
+        name="profile"
+        options={{
+          title: 'Profile',
+          tabBarIcon: ({ color }) => <User size={24} color={color} />,
+        }}
+      />
     </Tabs>
    
   );

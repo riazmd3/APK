@@ -13,7 +13,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/home-icon.png",
+        "foregroundImage": "./assets/images/Sample_home.jpg",
         "backgroundColor": "#ffffff"
       },
       "package": "com.anonymous.NeuroCanteen"
